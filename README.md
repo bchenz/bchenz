@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bchenz
+- 👋 Hi, I’m Benson Chen
 - 👀 I’m interested in golf, technology, and FOOD!
 - 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on any interesting projects.
